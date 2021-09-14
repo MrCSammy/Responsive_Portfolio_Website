@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\Custom Captcha in JavaScript"
+		},
+		{
+			"path": "..\\File Upload in JavaScript"
+		},
+		{
+			"path": "..\\Neumorphism Profile CardUi Design"
+		},
+		{
+			"path": "..\\Pagination UI Design - JavaScript"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Responsive Portfolio Website"
+	}
+}
